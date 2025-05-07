@@ -9,7 +9,7 @@ Learn the fundamentals of interacting with the OpenAI API. This session covers:
 - Sending basic prompts
 - Structured Outputs
 
-File: [`hack_1_openai_api_basics.ipynb`](BCxP-Hands-On/hack_1_openai_api_basics.ipynb)
+File: [`hack_1_openai_api_basics.ipynb`](hack_1_openai_api_basics.ipynb)
 
 ---
 
@@ -19,7 +19,7 @@ Dive deeper into OpenAI's function-calling capabilities. This session covers:
 - Parsing structured outputs
 - Practical use cases for function calling
 
-File: [`hack_2_openai_api_function_calling.ipynb`](BCxP-Hands-On/hack_2_openai_api_function_calling.ipynb)
+File: [`hack_2_openai_api_function_calling.ipynb`](hack_2_openai_api_function_calling.ipynb)
 
 ---
 
@@ -29,7 +29,7 @@ Explore how to implement semantic search and RAG workflows. Topics include:
 - FAISS (Facebook AI Similarity Search)
 - RAG (Retrieval augmented generation)
 
-File: [`hack_3_sem_search_rag.ipynb`](BCxP-Hands-On/hack_3_sem_search_rag.ipynb)
+File: [`hack_3_sem_search_rag.ipynb`](hack_3_sem_search_rag.ipynb)
 
 ---
 
@@ -37,7 +37,7 @@ File: [`hack_3_sem_search_rag.ipynb`](BCxP-Hands-On/hack_3_sem_search_rag.ipynb)
 Learn how to process files openAI's multimodal capabilities. This hack covers:
 - Processing PDF files
 
-File: [`hack_4_working_with_files.ipynb`](BCxP-Hands-On/hack_4_working_with_files.ipynb)
+File: [`hack_4_working_with_files.ipynb`](hack_4_working_with_files.ipynb)
 
 ---
 
@@ -45,7 +45,7 @@ File: [`hack_4_working_with_files.ipynb`](BCxP-Hands-On/hack_4_working_with_file
 Discover how to use Generative AI to generate a dynamic UI experience. This hack includes:
 - Generate UI components based on prompts
 
-File: [`hack_5_gen_ui.ipynb`](BCxP-Hands-On/hack_5_gen_ui.ipynb)
+File: [`hack_5_gen_ui.ipynb`](hack_5_gen_ui.ipynb)
 
 ---
 
