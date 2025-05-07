@@ -4,9 +4,6 @@ import plotly.express as px
 import numpy as np
 
 
-OPENAI_API_KEY = ""
-
-
 def plot_umap(user_embedding, menu_embeddings, menu, similarity_scores=None):
     """
     Visualisiert Embeddings (2D UMAP) inkl. Benutzeranfrage & Ähnlichkeiten.
