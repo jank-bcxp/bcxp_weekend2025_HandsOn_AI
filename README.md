@@ -34,7 +34,7 @@ File: [`hack_3_sem_search_rag.ipynb`](hack_3_sem_search_rag.ipynb)
 ---
 
 ### 4. Hack 4: Working with Files
-Learn how to process files openAI's multimodal capabilities. This hack covers:
+Learn how to process files with openAI's multimodal capabilities. This hack covers:
 - Processing PDF files
 
 File: [`hack_4_working_with_files.ipynb`](hack_4_working_with_files.ipynb)
