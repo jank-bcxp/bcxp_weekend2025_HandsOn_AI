@@ -60,8 +60,8 @@ Visit one of the following Colabs to start hacking:
 5. [hack_5_gen_ui.ipynb](https://colab.research.google.com/github/jank-bcxp/bcxp_weekend2025_HandsOn_AI/blob/main/hack_5_gen_ui.ipynb)
 
 ## Solutions
-1. [hack_1_openai_api_basics.ipynb](https://colab.research.google.com/github/jank-bcxp/bcxp_weekend2025_HandsOn_AI/blob/main/solutions/hack_1_openai_api_basics_sol.ipynb)
-2. [hack_2_openai_api_function_calling.ipynb](https://colab.research.google.com/github/jank-bcxp/bcxp_weekend2025_HandsOn_AI/blob/main/solutions/hack_2_openai_api_function_calling_sol.ipynb)
-3. [hack_3_sem_search_rag.ipynb](https://colab.research.google.com/github/jank-bcxp/bcxp_weekend2025_HandsOn_AI/blob/main/solutions/hack_3_sem_search_rag_sol.ipynb)
-4. [hack_4_working_with_files.ipynb](https://colab.research.google.com/github/jank-bcxp/bcxp_weekend2025_HandsOn_AI/blob/main/solutions/hack_4_working_with_files_sol.ipynb)
-5. [hack_5_gen_ui.ipynb](https://colab.research.google.com/github/jank-bcxp/bcxp_weekend2025_HandsOn_AI/blob/main/solutions/hack_5_gen_ui_sol.ipynb)
+1. [hack_1_openai_api_basics_sol.ipynb](https://colab.research.google.com/github/jank-bcxp/bcxp_weekend2025_HandsOn_AI/blob/main/solutions/hack_1_openai_api_basics_sol.ipynb)
+2. [hack_2_openai_api_function_calling_sol.ipynb](https://colab.research.google.com/github/jank-bcxp/bcxp_weekend2025_HandsOn_AI/blob/main/solutions/hack_2_openai_api_function_calling_sol.ipynb)
+3. [hack_3_sem_search_rag_sol.ipynb](https://colab.research.google.com/github/jank-bcxp/bcxp_weekend2025_HandsOn_AI/blob/main/solutions/hack_3_sem_search_rag_sol.ipynb)
+4. [hack_4_working_with_files_sol.ipynb](https://colab.research.google.com/github/jank-bcxp/bcxp_weekend2025_HandsOn_AI/blob/main/solutions/hack_4_working_with_files_sol.ipynb)
+5. [hack_5_gen_ui_sol.ipynb](https://colab.research.google.com/github/jank-bcxp/bcxp_weekend2025_HandsOn_AI/blob/main/solutions/hack_5_gen_ui_sol.ipynb)
